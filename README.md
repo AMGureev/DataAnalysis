@@ -1,1 +1,2 @@
-# DataAnalysis
+# Data Analysis
+[Домашнее задание #6](https://github.com/AMGureev/DataAnalysis/tree/main/HW6). Задание состояло из 2 частей, решение представлено в файлах формата `.ipynb`. Работу выполнили студенты `Гуреев Александр` и `Гогаев Бадма`.
